@@ -1,0 +1,7 @@
+D:\Proiecte c#\CEX\10\bin\Debug\10.exe.config
+D:\Proiecte c#\CEX\10\bin\Debug\10.exe
+D:\Proiecte c#\CEX\10\bin\Debug\10.pdb
+D:\Proiecte c#\CEX\10\obj\Debug\10.csproj.AssemblyReference.cache
+D:\Proiecte c#\CEX\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\CEX\10\obj\Debug\10.exe
+D:\Proiecte c#\CEX\10\obj\Debug\10.pdb

@@ -1,0 +1,7 @@
+D:\Proiecte c#\CEX\9\bin\Debug\9.exe.config
+D:\Proiecte c#\CEX\9\bin\Debug\9.exe
+D:\Proiecte c#\CEX\9\bin\Debug\9.pdb
+D:\Proiecte c#\CEX\9\obj\Debug\9.csproj.AssemblyReference.cache
+D:\Proiecte c#\CEX\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\CEX\9\obj\Debug\9.exe
+D:\Proiecte c#\CEX\9\obj\Debug\9.pdb
